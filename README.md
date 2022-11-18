@@ -2,7 +2,7 @@
 FS Launcher Overlord Launcher Aims to allow users to log in and play the game without Ubisoft Connect. Ubisoft runs their modern friends list on top of the games original legacy friends system which causes connection issues and crashing. This launcher also provides one click setup for firewall rules that must be in place for friend invites to be sent and recieved, and allows users to reinstall punkbuster as the game doesn't intstall punkbuster properly for many users. 
   
 ## Download
-The latest release can be found [here](https://github.com/KilLo445/FS-Launcher/releases/latest)  
+The latest release can be found [here](https://github.com/Arganom/Overlord/releases/tag/GRFSO-Launcher)  
   
 ## How to use 
 ### Play (Will prompt you to select your game's exe file)   
