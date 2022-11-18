@@ -30,5 +30,6 @@ This launcher automatically updates, so you should not have to manually update, 
 
 ## Credits
 DecentLoser- Base for launcher 
+
 Illuminati - Quality testing and providing media assets
 
