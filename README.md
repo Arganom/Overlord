@@ -28,7 +28,7 @@ Changelog can be found [here](edit this later )
 ## Updates
 This launcher automatically updates, so you should not have to manually update, however you can manually check for updates by clicking the version text in the bottom right corner.
 
-##Credits
+## Credits
 DecentLoser- Base for launcher 
 Illuminati - Quality testing and providing media assets
 
