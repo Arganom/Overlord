@@ -7,7 +7,7 @@ The latest release can be found [here](https://github.com/Arganom/Overlord/relea
 ## Button Use 
 
 
-## Directory 
+### Directory 
 
 Will open the game install folder.
 ### Play (Will prompt you to select your game's exe file)   
