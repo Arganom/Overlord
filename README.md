@@ -5,6 +5,8 @@ FS Launcher Overlord Launcher Aims to allow users to log in and play the game wi
 The latest release can be found [here](https://github.com/Arganom/Overlord/releases/tag/GRFSO-Launcher)  
   
 ## How to use 
+
+## Directory Will open the game install folder.
 ### Play (Will prompt you to select your game's exe file)   
 Launch the game directly from the EXE.  
 ### Firewall   
@@ -22,9 +24,7 @@ Most buttons have a right click function to uninstall selected operations.
 ### Resetting The Launcher
 If you would like to reset the launcher, hold left shift while opening the launcher.  
   
-## Changelog
-Changelog can be found [here](edit this later )  
-  
+
 ## Updates
 This launcher automatically updates, so you should not have to manually update, however you can manually check for updates by clicking the version text in the bottom right corner.
 
@@ -32,4 +32,5 @@ This launcher automatically updates, so you should not have to manually update, 
 DecentLoser- Base for launcher 
 
 Illuminati - Quality testing and providing media assets
+
 
