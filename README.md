@@ -4,9 +4,12 @@ FS Launcher Overlord Launcher Aims to allow users to log in and play the game wi
 ## Download
 The latest release can be found [here](https://github.com/Arganom/Overlord/releases/tag/GRFSO-Launcher)  
   
-## How to use 
+## Button Use 
 
-## Directory Will open the game install folder.
+
+## Directory 
+
+Will open the game install folder.
 ### Play (Will prompt you to select your game's exe file)   
 Launch the game directly from the EXE.  
 ### Firewall   
